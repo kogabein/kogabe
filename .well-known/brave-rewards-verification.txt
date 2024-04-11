@@ -1,4 +1,0 @@
-This is a Brave Creators publisher verification file.
-
-Domain: kogabe.in
-Token: bbe708c8d5e2e073a43a6f40b22b70a18c29761d19999150a7860fe8b85ff287
