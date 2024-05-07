@@ -1,3 +1,1 @@
-kogabe.in, 
-pub-4943123653799666, 
-DIRECT
+google.com, pub-4943123653799666, DIRECT, f08c47fec0942fa0
