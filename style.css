@@ -21,8 +21,38 @@
     color: #fff;
     font-size: 3vw;
 }
+.msg > h1{
+    animation-name: blinkup;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+}
 .msg > h1:hover
 {
     opacity: 0.5;
 
+}
+
+@keyframes blinkup
+{
+    0%
+    {
+        opacity: 0.1;
+    }
+    25%
+    {
+        opacity: 0.5;
+    }
+    50%
+    {
+        opacity: 1;
+    }
+    75%
+    {
+        opacity: 0.5;
+    }
+    100%
+    {
+        opacity: 0.1;
+    }
 }
